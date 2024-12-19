@@ -37,10 +37,8 @@ Three different Convolutional Neural Network (CNN) architectures were used in th
   - Mitigates vanishing gradient problems.
   - Optimizer: ADAM, Learning Rate: 0.001, Weight Decay: 0.0001.
 
-  <img src='Images/accuracy_resnet.png' alt='ResNet Accuracy' width='45%'/> <img src='Images/loss_resnet.png' alt='ResNet Loss' width='45%'/>
-  ![ResNet Loss](Images/loss_resnet.png)
-  <img src='Images/resnet_confusion_Matrix.png' alt='ResNet Confusion Matrix' width='45%'/> <img src='Images/resnet_ROC.png' alt='ResNet ROC AUC' width='45%'/>
-  ![ResNet ROC AUC](Images/resnet_ROC.png)
+  <img src='Images/accuracy_resnet.png' alt='ResNet Accuracy' width='30%'/> <img src='Images/loss_resnet.png' alt='ResNet Loss' width='30%'/>
+  <img src='Images/resnet_confusion_Matrix.png' alt='ResNet Confusion Matrix' width='30%'/> <img src='Images/resnet_ROC.png' alt='ResNet ROC AUC' width='30%'/>
 
 ### 2. DenseNet-121
 - **Highlights**:
@@ -49,19 +47,15 @@ Three different Convolutional Neural Network (CNN) architectures were used in th
   - Optimizer: SGD, Learning Rate: 0.0001, Momentum: 0.9.
 
   <img src='Images/densenet_accuracy.jpg' alt='DenseNet Accuracy' width='45%'/> <img src='Images/densenet_loss.jpg' alt='DenseNet Loss' width='45%'/>
-  ![DenseNet Loss](Images/densenet_loss.jpg)
   <img src='Images/confusion_matrix_densenet.jpg' alt='DenseNet Confusion Matrix' width='45%'/> <img src='Images/ROC_AUC_densenet.jpg' alt='DenseNet ROC AUC' width='45%'/>
-  ![DenseNet ROC AUC](Images/ROC_AUC_densenet.jpg)
 
 ### 3. Xception
 - **Highlights**:
   - Based on the inception hypothesis (decoupling spatial and channel relationships).
   - Uses depthwise separable convolutions to reduce computational cost.
 
-  <img src='Images/Xception-accuracy.png' alt='Xception Accuracy' width='45%'/> <img src='Images/Xception-Loss.png' alt='Xception Loss' width='45%'/>
-  ![Xception Loss](Images/Xception-Loss.png)
-  <img src='Images/Xception-ConfusionMatrix.png' alt='Xception Confusion Matrix' width='45%'/> <img src='Images/Xception-ROC-AUC.png' alt='Xception ROC AUC' width='45%'/>
-  ![Xception ROC AUC](Images/Xception-ROC-AUC.png)
+  <img src='Images/Xception-accuracy.png' alt='Xception Accuracy' width='30%'/> <img src='Images/Xception-Loss.png' alt='Xception Loss' width='30%'/>
+  <img src='Images/Xception-ConfusionMatrix.png' alt='Xception Confusion Matrix' width='30%'/> <img src='Images/Xception-ROC-AUC.png' alt='Xception ROC AUC' width='30%'/>
 
 ---
 
